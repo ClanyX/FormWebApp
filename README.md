@@ -74,7 +74,10 @@ A simple web application built with **ASP.NET Core (C#)** that demonstrates a ba
 
 ---
 
-## 📄 License
+## 📜 License
 
-This project is provided without a license. You are free to use or modify it, but the author assumes no responsibility for any outcomes.
-"""
+This project is licensed under the [MIT License](LICENCE).
+
+## 👤 Author
+
+Created with 💻 by [ClanyX](https://github.com/ClanyX)
