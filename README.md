@@ -65,15 +65,6 @@ A simple web application built with **ASP.NET Core (C#)** that demonstrates a ba
 
 ---
 
-## 📫 Contributions
-
-1. Fork this repository
-2. Create a branch (`git checkout -b feature/your-feature-name`)
-3. Make your changes and commit them (`git commit -am 'Add feature'`)
-4. Open a pull request
-
----
-
 ## 📜 License
 
 This project is licensed under the [MIT License](LICENCE).
